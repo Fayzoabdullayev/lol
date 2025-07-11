@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.main {
+    width: 1160px;
+    background-color: #343C56;
+    margin: 0 auto;
+    border-radius: 40px;
+    padding: 46px 84px;
+
+}
+
+.boxrel {
+    padding: 10px 30px;
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+}
+
+.boxred {
+       padding: 10px 30px;
+    background-color: red;
+    border-radius: 30px;
+
+    color: white;
+
+
+}
+
+.boxvel {
+       padding: 10px 30px;
+    background-color: red;
+    border-radius: 30px;
+
+    color: white;
+
+
+}
+
+.boxgas {
+        padding: 10px 30px;
+    background-color: red;
+    border-radius: 30px;
+
+    color: white;
+
+
+}
+
+.ota {
+
+    display: flex;
+    justify-content: space-around;
+    padding: 14px 45px;
+
+
+}
+
+.ota div {
+    display: flex;
+    align-items: center;
+
+}
+
+.img1 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 41px;
+}
+
+.jpg {
+    width: 400px;
+    height: 200px;
+}
+
+.ppg {
+    width: 400px;
+    height: 200px;
+
+}
+
+.read {
+    background-color: black;
+    border-radius: 40px;
+    width: 264px;
+    height: 118px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: auto;
+    flex-direction: column;
+
+}
+
+.prosper {
+    font-weight: 700px;
+    font-size: 24px;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 40px;
+   
+
+}
+
+.what {
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    align-items: end;
+}
+
+.boxrel p {
+    text-align: center;
+}
+
+.flexbox-boxes {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 100px;
+
+}
+
+.box {
+    background-color: red;
+    padding: 50px;
+    border-radius: 50px;
+}
+
+.text{
+    background-color: greenyellow;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    
+    
+
+}
+
+.box :nth-child(2){
+   background-color: red;
+    padding: 50px;
+    border-radius: 50px;
+}
+
+.text :nth-child(2){
+     
+       background-color: greenyellow;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    
+  
+}
+
+
+
+.text p{
+ font-size: 12px;
+}
+
